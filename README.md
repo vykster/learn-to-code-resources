@@ -22,6 +22,7 @@ Free Online Tutorials
 - [RubyKoans](http://rubykoans.com/)
 - [Free Code Camp](http://www.freecodecamp.com/) _Haven't used this before -- interesting idea, they teach you to code in exchange for volunteering to help nonprofits with your skills._
 - [Javascript for Cats](http://jsforcats.com/)
+- [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
 
 
 Paid Online Tutorials
