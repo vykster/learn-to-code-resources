@@ -51,3 +51,4 @@ Apprenticeship Programs
 
 
 Resourse Lists from Others
+- [Tips for putting together a portfolio](http://learntocodewith.me/posts/portfolio-tips/)
