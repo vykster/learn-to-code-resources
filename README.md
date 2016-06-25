@@ -49,6 +49,9 @@ Noteworthy Coding Bootcamps / Dev Schools
 - [Turing School](http://turing.io/) - _Nonprofit, Colorado_
 - [Ada Developer's Academy](http://adadevelopersacademy.org/) - _Focus on women + diversity, Seattle._
 
+Other Coding Bootcamps / Dev Schools
+- [Hackership](www.hackership.org/about/) - Berlin based, low(er) cost, maybe not for profit?
+
 Apprenticeship Programs
 - [Thoughtbot's Appretice.io](http://www.apprentice.io/) _Rockstar web consultancy pumping out open source software and tools for other programmers to become better programmers._
 - [8thlight Apprenticeship](https://8thlight.com/apprenticeship/)
