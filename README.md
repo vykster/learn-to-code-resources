@@ -23,6 +23,10 @@ Free Online Tutorials
 - [Free Code Camp](http://www.freecodecamp.com/) _Haven't used this before -- interesting idea, they teach you to code in exchange for volunteering to help nonprofits with your skills._
 - [Javascript for Cats](http://jsforcats.com/)
 - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
+- [The New Boston's YouTube Videos](https://www.youtube.com/user/thenewboston/videos)
+
+Books
+- [Eloquent Ruby](http://eloquentruby.com/)
 
 
 Paid Online Tutorials
