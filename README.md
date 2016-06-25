@@ -41,6 +41,7 @@ Resources I haven't yet used:
 - [Platzi](https://courses.platzi.com/)
 - [Google's Made with Code Resource List](https://www.madewithcode.com/resources/)
 - [Upcase](https://upcase.com/join)
+- [Code Avengers](https://www.codeavengers.com/)
 
 Noteworthy Coding Bootcamps / Dev Schools
 - [Recurse Center](https://www.recurse.com/) - _Previously Hacker School. Best of the best imo. Free tuition, competitive application process, NYC._
