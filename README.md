@@ -24,6 +24,7 @@ Free Online Tutorials
 - [Javascript for Cats](http://jsforcats.com/)
 - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
 - [The New Boston's YouTube Videos](https://www.youtube.com/user/thenewboston/videos)
+- [GitHub's Online Training Courses](https://services.github.com/on-demand/)
 
 Books
 - [Eloquent Ruby](http://eloquentruby.com/)
