@@ -25,6 +25,7 @@ Free Online Tutorials
 - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
 - [The New Boston's YouTube Videos](https://www.youtube.com/user/thenewboston/videos)
 - [GitHub's Online Training Courses](https://services.github.com/on-demand/)
+- [Learn to Build on AWS](https://aws.amazon.com/getting-started/use-cases/)
 
 Books
 - [Eloquent Ruby](http://eloquentruby.com/)
